@@ -1,0 +1,25 @@
+{
+  "name": "scheduler",
+  "version": "0.0.1",
+  "description": "This is a scheduler app by Sarthak Kar.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.25.3",
+    "fastify-formbody": "^5.2.0",
+    "fastify-static": "^4.5.0",
+    "handlebars": "^4.7.7",
+    "point-of-view": "^5.0.0",
+    "express": "^4.17.2",
+    "nedb": "^1.8.0",
+    "request": "^2.88.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
